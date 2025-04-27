@@ -1,0 +1,6 @@
+bash_file_description.txt
+
+**/*.o
+**/*.img
+1-bootable_image/a.S
+2-Hello_humans_and_debugging/.gdb_history
